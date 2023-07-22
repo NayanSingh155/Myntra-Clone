@@ -141,9 +141,9 @@ If you want to contact us, you can reach us through below handles.
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1995Neha18)
 
-<h3>Shivendra Paliwal - Team Member</h3>
+<h3>Nanhi Singh - Team Member</h3>
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivaay044)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NanhiSingh155)
 
 <h3>Deepak Pandey - Team Member</h3>
 
